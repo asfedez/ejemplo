@@ -18,6 +18,7 @@ public class EjemploGit {
         
         System.out.println("Hola");
         System.out.println("Practicando");
+        System.out.println("Practicando");
     }
     
 }
